@@ -2,7 +2,7 @@
  #include <stdlib.h>
 #include "LOOP.h"
 #include "calificaciones.h"
-#include "numero primo.h"
+#include "numeroprimo.h"
 #include "vector.h"
 int main(void) 
 {
