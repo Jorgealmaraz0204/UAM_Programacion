@@ -6,12 +6,6 @@
 #include "vector.h"
 int main(void) 
 {
-
-  
-
-
-
-  return 0;
   do{
         printf("MENU\n");
         printf("1. loops \n");
