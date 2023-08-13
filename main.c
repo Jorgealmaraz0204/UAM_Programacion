@@ -1,6 +1,9 @@
 #include <stdio.h>
-#include "funciones.h"
-
+ #include <stdlib.h>
+#include "LOOP.h"
+#include "calificaciones.h"
+#include "numero primo.h"
+#include "vector.h"
 int main(void) 
 {
 
